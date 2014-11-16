@@ -1,0 +1,13 @@
+# Site settings
+title: "ktosiek's log"
+email: tomasz.kontusz@gmail.com
+github_handle: ktosiek
+twitter: tkontusz
+description: |
+  Place for noting ideas, TODOs, and (sometimes) solutions.
+baseurl: ""
+url: "https://ktosiek.github.io"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
